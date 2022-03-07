@@ -64,4 +64,8 @@ header{
     width: 46%;
     margin: 0 2%;
 }
-
+footer{
+    margin-top: 1em;
+    height: 50px;
+    background-color: blueviolet;
+}
