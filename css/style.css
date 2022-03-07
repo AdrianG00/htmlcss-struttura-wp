@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html{
+     font-size: 62,5%; /* 100%=16px */
+     /* 62.5%=10px */
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    max-width: 1400px;
+    /* Test */
+    /* border: 2px solid red;
+    height: 800px; */
+
+}
+
+header{
+    height: 100px;
+    background-color: violet;
+    margin-bottom: 1em;
+}
